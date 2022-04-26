@@ -1,6 +1,6 @@
 Get Switchports
 ===============
-And Find Out Where Your Stuff Is
+And find out where your stuff is
 --------------------------------
 
 If you feed a list of MAC addresses and a list of switch hostnames/IP addresses into this script, it will output a CSV showing the switch and switchport associated with each MAC address. It only works with Cisco Catalyst switches, but with a few tweaks, it can be used in production.
